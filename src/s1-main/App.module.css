@@ -1,11 +1,18 @@
 .App {
     --header_height: 60px;
+    width: 1280px;
+    margin: 0 auto;
 }
 
 .hw {
-
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid #000000;
+    height: 331px;
 }
 
 .hwTitle {
-
+    display: flex;
+    align-items: flex-start;
+    margin-top: 131px;
 }

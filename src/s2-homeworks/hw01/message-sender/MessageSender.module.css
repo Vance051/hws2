@@ -1,18 +1,31 @@
 .sendForm {
-
+   display: flex;
+gap: 44px;
+    margin-left: 70px;
+    margin-top: 20px;
 }
 
 .textarea {
-
+    width: 976px;
+    left: 70px;
+    background: #F5F7FB;
+    border-radius: 20px;
 }
 
 .button {
-
+    width: 120px;
+    height: 40px;
+    left: 1090px;
+    top: 611px;
+    background: #0066CC;
+    border-radius: 20px;
+    margin-right: 70px;
 }
 
 .button:hover {
 
 }
+
 .button:active {
 
 }
